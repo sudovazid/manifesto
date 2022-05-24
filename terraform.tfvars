@@ -1,5 +1,5 @@
 #project id
-project_id = "vital-house-339705"
+project_id = "<project id>"
 
 #dataset id
 dataset_id = "stationary"
